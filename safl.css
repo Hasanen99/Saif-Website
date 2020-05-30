@@ -1,0 +1,236 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.skolnav{
+background-color: rgb(32, 32, 36);
+padding: 10px;
+height: 150px;
+
+}
+
+.skolnav h1{
+    font-size: 90pt;
+    font-family: Brush Script MT ,sans-serif;
+    text-shadow: 5px 5px 15px #A4A4A6;   
+    float: left;
+    margin-top: 2px;
+    margin-bottom: 0;
+    color:rgb(124, 252, 5);
+    padding-right: 20px;
+
+}
+
+.skolnav p{
+    font-size:30pt;
+      font-family: impact ,sans-serif;
+      text-align: right;
+      padding-left: 0;
+      margin-top: 70px;
+      margin-right: 10px;
+      color: rgb(0, 167, 0);
+}
+
+.topnav{
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+    height: 42px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.topnav ul{
+    margin-left: -50px;
+}
+.topnav li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 0;
+}
+
+.topnav a{
+    display: block;
+    text-decoration: none;
+    color: rgb(96, 99, 94);
+    font-size: 20pt;
+    padding:5px 20px;
+    padding-bottom: 5px;
+    margin-top: -27px;
+
+}
+
+.holi{
+    background-color: greenyellow;
+}
+
+.topnav a:hover{
+    color:white;
+}
+
+.pig1{
+background-image: url("C:/Users/hp/Desktop/PAQ34-MHDIA-1DZUU-H4DB8/saifweb/jrigjrij.jpg");
+width: 100%;
+height: 1100px;
+background-size: cover;
+background-repeat: no-repeat;
+position: sticky;
+top: 42px;
+z-index: -1;
+}
+
+
+
+.texad1{
+background-color: rgb(255, 255, 255);  
+margin-top: -20px;
+height: 500px;
+
+}
+
+.texad1 div{
+  float: left;
+  width: 400px;
+  height: 100%;
+  background-color: #33498F;
+}
+
+.texad1 p{
+    font-size: 40pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pig2{
+    background-image: url("C:/Users/hp/Desktop/PAQ34-MHDIA-1DZUU-H4DB8/saifweb/dercfcews.jpg");
+    width: 100%;
+    height: 1100px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: sticky;
+    top: 42px;
+    z-index: -1;
+    }
+
+    .widad{
+        height: 170px;
+        background-color: white;
+    }
+.works{
+        background-color: rgb(56, 50, 50);
+        width: 100%;
+        height: 1200px;
+        margin-top: -53px;
+        
+    }
+
+    .works p , .pol{
+        font-size: 40pt;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        padding-top: 30px;
+    }
+
+    .works div{
+      padding: 0 180px;
+
+    }
+    .works section{
+        float: left;
+        border: solid 2px black;
+        width: 500px;
+        height: 500px;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        opacity: 0.8;
+    }
+
+    .works section:hover{
+        opacity: 1;
+    }
+    
+    .sec1{
+        background-image: url("C:/Users/hp/Desktop/PAQ34-MHDIA-1DZUU-H4DB8/saifweb/eruteuhg.jpg");
+        background-size: cover;
+    }
+    .sec2{
+        background-image: url("C:/Users/hp/Desktop/PAQ34-MHDIA-1DZUU-H4DB8/saifweb/photo_2020-05-28_20-31-09.jpg");
+        background-size: cover;
+    }
+    .sec3{
+        background-image: url("C:/Users/hp/Desktop/PAQ34-MHDIA-1DZUU-H4DB8/saifweb/photo_2020-05-28_20-30-47.jpg");
+        background-size: cover;
+    }
+    .sec4{
+        background-image: url("C:/Users/hp/Desktop/PAQ34-MHDIA-1DZUU-H4DB8/saifweb/photo_2020-05-28_20-31-03.jpg");
+        background-size: cover;
+    }
+    .sec5{
+        background-image: url("C:/Users/hp/Desktop/PAQ34-MHDIA-1DZUU-H4DB8/saifweb/photo_2020-05-28_20-30-34.jpg");
+        background-size: cover;
+    }
+    .sec6{
+        background-image: url("C:/Users/hp/Desktop/PAQ34-MHDIA-1DZUU-H4DB8/saifweb/photo_2020-05-28_20-30-59.jpg");
+        background-size: cover;
+        background-position: center;
+    }
+
+
+    .viocont{
+        background-color: rgb(56, 50, 50);
+        margin-top: -54px;
+
+    }
+    .vio{
+        padding-left: 18%;
+        padding-bottom: 50px;
+    }
+
+    .fotr{
+        background-image: url("C:/Users/hp/Desktop/PAQ34-MHDIA-1DZUU-H4DB8/saifweb/2929841.jpg");
+        height:1100px ;
+        background-size: cover;
+        margin-top: -58px;
+
+    }
+
+    .fotr h1{
+        font-size: 45pt;
+        color: rgb(0, 0, 0);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-align: right;
+        padding-right: 50px;
+        padding-top: 70px;
+        letter-spacing: 2px;
+    }
+
+    .fotr p{
+        font-size: 35pt;
+        color: rgb(0, 0, 0);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-align: right;
+        padding-right: 20px;
+        padding-top: 30px;
+        letter-spacing: 2px;
+        
+    }
+
+    .ico{
+        padding:50px ;
+        padding-right:150px;
+    }
+
+    .fotr a img{
+        float: right;
+        width: 150px;
+        height: 150px;
+        padding: 40px;
+    }
+
+    .chap{
+        width: 100%;
+        color: white;
+        background-color: rgb(56, 50, 50);
+        text-align: center;
+        padding:75px 0;
+    }
